@@ -1,17 +1,20 @@
 ## Bem-Vindos ao meu GitHub! ⭐
 
 
-<img src="img/imagemGif.gif" alt="Imagem codando dia e noite">
+<p align="center"><img src="img/imagemGif.gif" alt="Imagem codando dia e noite"></p>
 
 ----
 
-# Olá, sou a Tabatha! 👋
+
+
+# Olá, me chamo Tabatha! 😉
 
 ## Sobre Mim
-- Formada em Análise e Desenvolvimento de Sistemas.
-- Apaixonada por programação e tecnologia.
+ - 🎓 Formada em Análise e Desenvolvimento de Sistemas.
 
--🌱 Atualmente aprofundando meus conhecimentos em Python, Git e GitHub.
+ - 💕 Apaixonada por programação e tecnologia.
+
+- 📒  Atualmente aprofundando meus conhecimentos em Python, Git e GitHub.
 
 ## Minhas Habilidades
 - Linguagens: Python.
@@ -21,21 +24,7 @@
 
 
 ## Contato
-- LinkedIn: Tabatha Silva
-- E-mail: tabatha.dev@ex
-Vamos codificar juntos! 🚀
+ - Linkedin: (https://www.linkedin.com/in/tabatha-karoline-desenvolvedora/))
+- E-mail: tatha_k@hotmail.com
 
-<!--
-**tabathamontes/tabathamontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
