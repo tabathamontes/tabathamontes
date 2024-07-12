@@ -7,7 +7,7 @@
 
 
 
-# Olá, me chamo Tabatha! 😉
+# Oi! Me chamo Tabatha 😉
 
 ## Sobre Mim
  - 🎓 Formada em Análise e Desenvolvimento de Sistemas.
