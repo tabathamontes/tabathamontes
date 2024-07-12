@@ -24,7 +24,7 @@
 
 
 ## Contato
- - Linkedin: (https://www.linkedin.com/in/tabatha-karoline-desenvolvedora/))
+ - Linkedin: https://www.linkedin.com/in/tabatha-karoline-desenvolvedora/
 - E-mail: tatha_k@hotmail.com
 
 
