@@ -14,7 +14,7 @@
 
  - 💕 Apaixonada por programação e tecnologia.
 
-- 📒  Atualmente estou aprofundando meus conhecimentos em Python, Git e GitHub.
+ - 📒  Atualmente estou aprofundando meus conhecimentos em Lógica de Programação, Python, Git e GitHub.
 
 ## Minhas Habilidades
 - Linguagens: Python.
@@ -25,6 +25,6 @@
 
 ## Contato
  - Linkedin: https://www.linkedin.com/in/tabatha-karoline-desenvolvedora/
-- E-mail: tatha_k@hotmail.com
+ - E-mail: tatha_k@hotmail.com
 
 
