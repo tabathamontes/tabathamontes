@@ -14,7 +14,7 @@
 
  - 💕 Apaixonada por programação e tecnologia.
 
-- 📒  Atualmente aprofundando meus conhecimentos em Python, Git e GitHub.
+- 📒  Atualmente estou aprofundando meus conhecimentos em Python, Git e GitHub.
 
 ## Minhas Habilidades
 - Linguagens: Python.
