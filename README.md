@@ -1,8 +1,9 @@
 ## Bem-Vindos ao meu GitHub! ⭐
 
-![Gif do gatinho]
-(https://tenor.com/pt-BR/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203)
 
+<img src="img/imagemGif.gif" alt="Imagem codando dia e noite">
+
+----
 
 # Olá, sou a Tabatha! 👋
 
