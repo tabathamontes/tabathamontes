@@ -17,9 +17,9 @@
  - 📒  Atualmente estou aprofundando meus conhecimentos em Lógica de Programação, Python, Git e GitHub.
 
 ## Minhas Habilidades
-- Linguagens: Python.
-- Ferramentas: Git, GitHub.
-- Bancos de Dados: MySQL.
+- Linguagens: Python, SQL.
+- Ferramentas: Git, GitHub, MySQL.
+
 
 
 
