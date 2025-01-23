@@ -17,11 +17,11 @@
  - 📒  Atualmente estou aprofundando meus conhecimentos em Lógica de Programação, Python, Git e GitHub.
 
 ## Minhas Habilidades
-** Linguagens: **
+**Linguagens:**
 - Python
 - SQL
  
-** Ferramentas:**
+**Ferramentas:**
 - Git
 - GitHub
 - MySQL
